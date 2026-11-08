@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/tls-certificates-operator/commit/12f4ccde7cca1088cc642701c47a0a04160d9ce7",
       "git:hexsha": "12f4ccde7cca1088cc642701c47a0a04160d9ce7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev464"
     },
     {
