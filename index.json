@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "tls-certificates-operator",
+  "versions": [
+    {
+      "commit": "12f4ccde7cca1088cc642701c47a0a04160d9ce7",
+      "tag": "rev463",
+      "parsed_at": "2026-11-08T14:49:40.101217+00:00"
+    }
+  ]
+}
