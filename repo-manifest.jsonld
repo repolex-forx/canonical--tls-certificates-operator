@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/tls-certificates-operator/commit/12f4ccde7cca1088cc642701c47a0a04160d9ce7",
       "git:hexsha": "12f4ccde7cca1088cc642701c47a0a04160d9ce7",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev464"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev464",
+      "repolex:parsedAt": "2026-11-08T14:49:40.099760+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/tls-certificates-operator/commit/f1c595afba007a7bc95220b16fd66a9064015468",
